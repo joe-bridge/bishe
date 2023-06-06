@@ -12,3 +12,5 @@
 - 数据集文件解释：http://www.taodudu.cc/news/show-1493001.html?action=onClick
 
 - 跟踪的evaluate代码：https://github.com/shenh10/mot_evaluation
+
+- data和experiments_lowlight的内容存在云盘及硬盘中
